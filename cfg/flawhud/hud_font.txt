@@ -1,1 +1,0 @@
-#base ../../custom/flawhud/resource/scheme/clientscheme_fonts_pro.res 

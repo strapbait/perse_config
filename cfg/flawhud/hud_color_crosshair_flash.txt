@@ -1,1 +1,0 @@
-#base ../../custom/flawhud/resource/ui/customizations/colors/crosshair_flash/crosshair_flash_navy.res 

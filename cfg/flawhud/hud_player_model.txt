@@ -1,1 +1,0 @@
-#base ../../custom/flawhud/resource/ui/customizations/player_model/player_model_off.res 
