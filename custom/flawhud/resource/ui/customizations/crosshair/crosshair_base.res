@@ -1,0 +1,35 @@
+"resource/ui/customizations/crosshair/crosshair_base.res"
+{
+	"CustomCrosshair"
+	{
+		"visible"	"0"
+		"enabled"	"1"
+		"labelText"	"<"
+		"controlName"	"CExLabel"
+		"fieldName"	"CustomCrosshair"
+		"zpos"	"0"
+		"xpos"	"cs-0.5"
+		"ypos"	"cs-0.5"
+		"wide"	"f0"
+		"tall"	"f0"
+		"font"	"Size_18"
+		"textAlignment"	"center"
+		"fgcolor"	"Crosshair"
+	}
+	"CustomCrosshair2"
+	{
+		"visible"	"1"
+		"enabled"	"1"
+		"labelText"	"f"
+		"controlName"	"CExLabel"
+		"fieldName"	"CustomCrosshair2"
+		"zpos"	"-1"
+		"xpos"	"cs-0.5"
+		"ypos"	"cs-0.5"
+		"wide"	"f0"
+		"tall"	"f0"
+		"font"	"Size_18"
+		"textAlignment"	"center"
+		"fgcolor"	"white"
+	}
+}
