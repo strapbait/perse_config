@@ -1,0 +1,1 @@
+X { MainMenuOverride { SafeMode { visible 0 Customizations_Panel { HUD_Customization_Home_Panel { Visible 0 } } } } } 
