@@ -41,7 +41,7 @@ My customized config for the itemtest map which will automatically be run whenev
 ### kudos
 [angie](https://github.com/palmtopangie/), for being a massive nerd and flexing on me with her [config](https://github.com/palmtopangie/palmtopconfig)
 
-[grape juice](https://tempusplaza.com/players/14587), for guiding my jumping journey, and [hood]([https://steamcommunity.com/id/somethinghood/](https://rgl.gg/Public/PlayerProfile?p=76561199086159354&r=24)), for starting it
+[grape juice](https://tempusplaza.com/players/14587), for guiding my jumping journey, and [hood](https://rgl.gg/Public/PlayerProfile?p=76561199086159354&r=24), for starting it
 
 [espi](https://github.com/espimarisa), for submissive puppyboy delivery
 
